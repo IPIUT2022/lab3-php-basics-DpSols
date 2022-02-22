@@ -1,0 +1,5 @@
+Color red
+Name Maftuna
+Age 21
+Id U555777
+Subject IP
